@@ -1,0 +1,28 @@
+ul li{
+	list-style-type:none;
+	float:left;
+}
+a{
+	color:white; 
+ 	font-size:14px; 
+ 	font-weight:bold;
+}
+.menu{   
+ 	background:url(../image/bg.gif) ; 
+ 	background-repeat: no-repeat;
+ 	text-align:center; 
+ 	margin:auto; 
+ 	width:1005px; 
+ 	height:75px; 
+ 	text-align:center;
+ }
+ul{
+	line-height:75px;
+	color:yellow 
+} 
+a:hover{ 
+	color:blue;
+}
+.specil { 
+ 	color:orange; 
+ } 

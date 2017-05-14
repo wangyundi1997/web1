@@ -1,0 +1,21 @@
+.menu{
+	background-image: url(../image/bj.png);
+	background-repeat: no-repeat;
+	height:400px;
+}
+.news2{
+	background-image: url(../image/baibiaoti.png);
+	background-repeat: no-repeat;
+	text-align: center;
+}
+#news1{
+	background-image: url(../image/lvbiaoti.png);
+	background-repeat: no-repeat;
+	text-align: center;
+}
+ul{
+	list-style-type:none;
+	width:200px;
+	height:60px;
+	line-height:50px;
+}
